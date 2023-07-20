@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheScienceComputerNerd
 - 👀 I’m just in the start of high school; my interest is in Science (mainly Mathematics and Physics) and Computer Science
 - 🌱 I have learned Precalculus, Astronomy, Physics (Motional, Electrical, and Some Quantum), Chemistry, Biology, Circuitry, and some Programming Languages (Python, HTML, C++, SQL)
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on projects that yield promising results (I'm not easily convinced)
 - 📫 You can't reach me
 
 <!---
