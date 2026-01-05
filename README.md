@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheScienceComputerNerd
-- 👀 I’m just in the start of high school; my interest is in Science (mainly Mathematics and Physics) and Computer Science
-- 🌱 I have learned Precalculus, Astronomy, Physics (Motional, Electrical, and Some Quantum), Chemistry, Biology, Circuitry, and some Programming Languages (Python, HTML, C++, SQL)
+- 👀 I’m in 11th grade; my interest is in Science (mainly Mathematics and Physics) and Computer Science
+- 🌱 I have learned Calculus, Physics (Mechanical, Electrical, and Some Quantum), Chemistry, Biology, Circuitry, and some Programming Languages (Python, HTML, C++) as well as SQL (Structured Query Language)
 - 💞️ 
-- 📫 
+- 📫 You can reach out to me via my professional email, (not put in for privacy purposes)
 
 <!---
 TheScienceComputerNerd/TheScienceComputerNerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
