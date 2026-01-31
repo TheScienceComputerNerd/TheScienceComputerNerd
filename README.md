@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avi Seth (Github: @TheScienceComputerNerd, State: CA)
 - 💯 Check out my public projects under TheScienceComputerNerd/Projects
 - 👀 I’m in 11th grade; my main interests are in Mathematics, Physics, and Computer Science
-- 🌱 I have learned Calculus, Physics (Mechanical, Electrical, and Some Quantum), Chemistry, Biology, Circuitry, and some Programming Languages (Python, HTML, C), as well as SQL (Structured Query Language)
+- 🌱 I have learned Calculus, Physics (Mechanical, Electrical, and Some Quantum), Chemistry, Biology, Circuitry, and some Programming Languages (Python, HTML, C), as well as SQL
 - 💞️ 
 - 📫 You can reach out to me via my professional email, (avi.seth4118@gmail.com)
 
